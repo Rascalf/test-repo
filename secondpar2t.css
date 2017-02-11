@@ -462,11 +462,11 @@
 }
 
 .chat>.title-wrap>.title .channel-name {
-    color: #F89C04 !important;
+    color: #00ffff !important;
 }
 
 .chat>.title-wrap>.title .channel-name:before {
-    color: #f89c04 !important;
+    color: #00ffff!important;
 }
 
 .chat .title-wrap .topic:before {
